@@ -1,0 +1,1 @@
+<xml><ToUserName><![CDATA[oSEWM1oQnOOI1Z1nU_TBs3xijcMw]]></ToUserName><FromUserName><![CDATA[gh_29f28427aad8]]></FromUserName><CreateTime>1533983109865</CreateTime> <MsgType><![CDATA[text]]></MsgType><Content><![CDATA[Hi, 欢迎光临我的空间！]]></Content></xml>
